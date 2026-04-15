@@ -9,7 +9,7 @@
 
 ### 🚀 如何安装到你的 VS Code
 在 Claude Code 的对话终端中输入以下指令：
-import github.com/你的GitHub用户名/football-analyzer
+import github.com/liaomang929/football-analyzer
 
 ### 📝 使用方法
 调用时提供两个变量：
